@@ -1,0 +1,1 @@
+read.csv("C://Users//danie//Downloads//TwoFactorANOVA1.csv")
